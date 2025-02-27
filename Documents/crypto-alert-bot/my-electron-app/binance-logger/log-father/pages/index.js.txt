@@ -1,0 +1,13 @@
+// pages/index.js
+import React from 'react';
+
+const Home = () => {
+  return (
+    <div>
+      <h1>Welcome to Log Father</h1>
+      <p>Track altcoin stats in real-time!</p>
+    </div>
+  );
+};
+
+export default Home;
